@@ -9,4 +9,3 @@ while True:
 
     else:
         break
-        print("thanks for playing!")
